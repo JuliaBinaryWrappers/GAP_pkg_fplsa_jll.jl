@@ -1,0 +1,69 @@
+[[GAP_pkg_fplsa]]
+arch = "aarch64"
+git-tree-sha1 = "bfd11303cc1964d5ed429b14fcab5634832fb778"
+os = "macos"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "c2638de4a3bc00d3c344c544ba33e9076791a6d7f0192574252dcce60ec365eb"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v100.200.500+0/GAP_pkg_fplsa.v100.200.500.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "aarch64"
+git-tree-sha1 = "108d199e8a97f9e04747f360eafbb97b35c5cbe4"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "5951ad7ff733de0f6ebb28880428ab4d5ab4faf7314d2d47a07b89611f84f56e"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v100.200.500+0/GAP_pkg_fplsa.v100.200.500.aarch64-linux-gnu.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "aarch64"
+git-tree-sha1 = "2ac5a46ebc5ff296a0087eadb4e4e79bc09b25da"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "bae6276fdb5af073878de83d559c8609ac66d1370c63dbb9c3953c4396d37666"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v100.200.500+0/GAP_pkg_fplsa.v100.200.500.aarch64-linux-musl.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "powerpc64le"
+git-tree-sha1 = "8e3a0ca766ac720f292e7b75232e5b8871239066"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "1a0ed46df2cb1ecf940a573aabd24fe2e63e7e128f9e152ae1f0c1f9dfa16860"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v100.200.500+0/GAP_pkg_fplsa.v100.200.500.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "x86_64"
+git-tree-sha1 = "f4ec85a942b80e572eab707f59d39669172a4e33"
+os = "macos"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "6f1b8feb954fa4ecda056f6c59de38ae6e2691ecca7ba218821f075491935e64"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v100.200.500+0/GAP_pkg_fplsa.v100.200.500.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "x86_64"
+git-tree-sha1 = "bc9196a0830ae105773b01994021cd9fe8ae2e25"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "8c9f3dab4484592cc86d432ddb493c40277f09c1ae216318832801bc4b72190f"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v100.200.500+0/GAP_pkg_fplsa.v100.200.500.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "x86_64"
+git-tree-sha1 = "3060ff22381a58a10a1444472f9275bd0ae981f0"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "dbb39c2b05b77d7e6e4568ed3008350033d67876bdae7cee2bafe9d463c6857e"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v100.200.500+0/GAP_pkg_fplsa.v100.200.500.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "x86_64"
+git-tree-sha1 = "0028177b92f01d709b7a34886b7903f77b6ab9f8"
+os = "freebsd"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "b295e550b18c3ca0c4c7893a15fb0321775b272b6aefe4f891971409e701c337"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v100.200.500+0/GAP_pkg_fplsa.v100.200.500.x86_64-unknown-freebsd.tar.gz"
